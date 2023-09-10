@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Dessy! 
+### 👋 Hey there, I'm Dessy! 
 
 Welcome to my database-driven corner of the digital world. I'm a data enthusiast with a strong focus on databases, and I also have a knack for Python. Here's a glimpse into my journey and my latest project:
 
