@@ -1,4 +1,4 @@
-### 👋 Hey there, I'm Dessy! 
+# 👋 Hey there, I'm Dessy! 
 
 Welcome to my database-driven corner of the digital world. I'm a data enthusiast with a strong focus on databases, and I also have a knack for Python. Here's a glimpse into my journey and my latest project:
 
@@ -19,7 +19,7 @@ My path led me to the captivating realm of data. SQL quickly became my trusted c
 While SQL remained close to my heart, I also embraced Python. I ventured into object-oriented programming and embarked on exciting projects, combining my love for data with the power of Python. Additionally, I'm passionate about data science and the art of analyzing data, where I constantly explore data insights and patterns.
 
 
-### 🎸 Current Project: SpotiCode
+## 🎸 Current Project: SpotiCode
 
 My current project is all about music. I'm crafting a pop and rock music databases that are not just your ordinary collection of songs but a gateway to the world of music, seamlessly integrated with Spotify. Get ready for an immersive musical experience!
 
